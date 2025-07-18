@@ -54,7 +54,7 @@ A simple and intuitive web interface allows users to input clinical data and rec
 
 ## Live Demo
 
-🖥️ You can try the live app here: [Heart Disease Prediction App on Streamlit](https://your-app-name.streamlit.app)
+🖥️ You can try the live app here: [Heart Disease Prediction App on Streamlit](https://heart-disease-prediction-app14.streamlit.app/)
 
 
 ## 📁 Project Structure
