@@ -1,0 +1,16 @@
+Model: Naive Bayes (GaussianNB)
+
+Best Parameters:
+- var_smoothing: 1e-09
+
+Performance Metrics (on Test Set):
+- Accuracy: 88.52%
+- Precision: 93.10%
+- Recall: 84.38%
+- F1-score: 88.52%
+- ROC AUC: 90.84%
+
+Comments:
+- The model shows high precision with slightly lower recall, indicating strong performance in identifying positive cases with few false positives.
+- Despite its simplicity, it performed competitively and can serve as a robust baseline.
+- Suitable for initial modeling and potential inclusion in ensemble strategies.
