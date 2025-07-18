@@ -20,7 +20,10 @@ The dataset includes several medical attributes such as:
 - `slope`: Slope of the ST segment
 - `ca`: Number of major vessels
 - `thal`: Thalassemia
-
+  
+## 📁 Data Source
+- [UCI Heart Disease Dataset](https://archive.ics.uci.edu/ml/datasets/Heart+Disease) (or similar structured CSV)
+  
 ## ⚙️ Technologies Used
 - Python
 - Pandas, NumPy
