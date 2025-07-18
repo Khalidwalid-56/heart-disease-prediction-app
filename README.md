@@ -39,6 +39,16 @@ The dataset includes several medical attributes such as:
 - Saving the best-performing model
 - Creating an interactive Streamlit web app for prediction
 
+## 📊 Models Used
+- Logistic Regression
+- Naive Bayes
+- SVM
+- KNN
+- Decision Tree
+- Random Forest
+- XGBoost
+- KMeans (Unsupervised)
+
 ## 📊 Streamlit UI
 A simple and intuitive web interface allows users to input clinical data and receive predictions on heart disease risk instantly.
 
