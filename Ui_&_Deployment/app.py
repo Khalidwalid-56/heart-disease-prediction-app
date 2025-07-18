@@ -2,6 +2,7 @@ import streamlit as st
 import numpy as np
 import pickle
 import plotly.graph_objects as go
+import os
 
 # Load trained model
 # with open(r"C:\Users\DELL\Downloads\‏‏Heart_Disease_Project - 2\Models\final_model.pkl", "rb") as f:
